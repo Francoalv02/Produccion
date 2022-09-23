@@ -22,10 +22,11 @@ namespace frmAlvarezProduccion
         private void btnCrearCultivos_Click(object sender, EventArgs e)
         {
             int idCultivos;
+
             string NombreCultivos;
             string datos;
             bool bandera = false;
-
+            
             idCultivos = Convert.ToInt32(txtIdentificadorCultivos.Text);
             NombreCultivos = txtNombrecultivos.Text;
 

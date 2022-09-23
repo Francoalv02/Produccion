@@ -88,7 +88,7 @@ namespace frmAlvarezProduccion
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(363, 310);
+            this.ClientSize = new System.Drawing.Size(363, 264);
             this.Controls.Add(this.btnCrearLocalidad);
             this.Controls.Add(this.txtNombreLocalidad);
             this.Controls.Add(this.txtIdentificadorLocal);
